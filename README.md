@@ -1,4 +1,4 @@
-# DL-resources
+# Resources for Machine Learning and Deep Learning
 
 ## Object detection
 #### SSD: Single Shot MultiBox Detector
