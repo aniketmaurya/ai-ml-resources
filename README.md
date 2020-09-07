@@ -16,12 +16,13 @@
 * [Blog](https://opencv.org/latest-trends-of-object-detection-from-cornernet-to-centernet-explained-part-i-cornernet/)
 
 
+<br>
+
 ## GAN
 <figure>
   <img src='images/horse2zebra.gif' align="center" width=384>
   <figcaption>Source: https://github.com/junyanz/CycleGAN/</figcaption>
 </figure>
-<br>
 
 ### CycleGAN
 * [Paper](https://arxiv.org/pdf/1703.10593.pdf)
