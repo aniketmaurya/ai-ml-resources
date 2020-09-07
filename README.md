@@ -23,4 +23,5 @@
 ### CycleGAN
 * [Paper](https://arxiv.org/pdf/1703.10593.pdf)
 * [Code](https://github.com/junyanz/CycleGAN)
-* [Blog](https://hardikbansal.github.io/CycleGANBlog/)
+* [Blog](https://hardikbansal.github.io/CycleGANBlog/) - Understanding and Implementing CycleGAN in TensorFlow
+
