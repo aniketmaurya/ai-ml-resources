@@ -17,7 +17,10 @@
 
 
 ## GAN
-<img src='https://github.com/junyanz/CycleGAN/blob/master/imgs/horse2zebra.gif' align="center" width=384>
+<figure>
+  <img src='images/horse2zebra.gif' align="center" width=384>
+  <figcaption>Source: https://github.com/junyanz/CycleGAN/</figcaption>
+</figure>
 <br>
 
 ### CycleGAN
