@@ -6,6 +6,11 @@
 * [Paper](https://arxiv.org/abs/1512.02325)
 
 ### Anchor-less Object Detection Models
+<figure>
+  <img src='images/centernet.png' align="center" width=384>
+  <figcaption>Source: https://github.com/xingyizhou/CenterNet</figcaption>
+</figure>
+
 #### CenterNet: Keypoint Triplets for Object Detection
 * [Paper](https://arxiv.org/abs/1904.08189)
 * [Code](https://github.com/xingyizhou/CenterNet)
