@@ -25,7 +25,7 @@
 
 ## GAN
 <figure>
-  <img src='images/horse2zebra.gif' align="center" width=384>
+  <img src='images/horse2zebra.gif' align="center">
   <figcaption>Source: https://github.com/junyanz/CycleGAN/</figcaption>
 </figure>
 
