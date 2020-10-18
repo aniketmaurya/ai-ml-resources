@@ -1,21 +1,21 @@
 # Resources for Machine Learning and Deep Learning
 
-# Object detection
-## Single Stage Detectors
-### SSD: Single Shot MultiBox Detector
+## Object detection
+### Single Stage Detectors
+#### SSD: Single Shot MultiBox Detector
 * [Paper](https://arxiv.org/abs/1512.02325)
 
-## Anchor-less Object Detection Models
+### Anchor-less Object Detection Models
 <figure>
   <img src='images/centernet.png' align="center" width=384>
   <figcaption>Source: https://github.com/xingyizhou/CenterNet</figcaption>
 </figure>
 
-### CenterNet: Keypoint Triplets for Object Detection
+#### CenterNet: Keypoint Triplets for Object Detection
 * [Paper](https://arxiv.org/abs/1904.08189)
 * [Code](https://github.com/xingyizhou/CenterNet)
 
-### CornerNet: Detecting Objects as Paired Keypoints
+#### CornerNet: Detecting Objects as Paired Keypoints
 * [Paper](https://arxiv.org/abs/1808.01244)
 * [Code](https://github.com/princeton-vl/CornerNet)
 * [Blog](https://opencv.org/latest-trends-of-object-detection-from-cornernet-to-centernet-explained-part-i-cornernet/)
@@ -23,19 +23,19 @@
 
 <br>
 
-# GAN
+## GAN
 <figure>
   <img src='images/horse2zebra.gif' align="center">
   <figcaption>Source: https://github.com/junyanz/CycleGAN/</figcaption>
 </figure>
 
-## DCGAN: Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks
+### DCGAN: Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks
 * [Paper](https://arxiv.org/abs/1511.06434)
 * [Code](https://github.com/aniketmaurya/GANs-PyTorch-models/blob/main/DCGAN/dcgan.ipynb)
 * [Blog](https://hardikbansal.github.io/CycleGANBlog/) - Understanding and Implementing CycleGAN in TensorFlow
 
 
-## CycleGAN
+### CycleGAN
 * [Paper](https://arxiv.org/pdf/1703.10593.pdf)
 * [Code](https://github.com/junyanz/CycleGAN)
 * [Blog](https://hardikbansal.github.io/CycleGANBlog/) - Understanding and Implementing CycleGAN in TensorFlow
