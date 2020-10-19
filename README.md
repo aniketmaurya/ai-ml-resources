@@ -4,6 +4,7 @@
 ### Single Stage Detectors
 #### SSD: Single Shot MultiBox Detector
 * [Paper](https://arxiv.org/abs/1512.02325)
+* [Code](https://github.com/aniketmaurya/ssd-tf2-tfds)
 
 ### Anchor-less Object Detection Models
 <figure>
