@@ -41,3 +41,14 @@
 * [Code](https://github.com/junyanz/CycleGAN)
 * [Blog](https://hardikbansal.github.io/CycleGANBlog/) - Understanding and Implementing CycleGAN in TensorFlow
 
+
+
+# Interpretable Machine Learning
+<figure>
+  <img src='https://christophm.github.io/interpretable-ml-book/images/title_page.jpg' align="center">
+  <figcaption>Source: https://christophm.github.io/interpretable-ml-book/images/title_page.jpg</figcaption>
+</figure>
+## Interpretable Machine Learning (A Guide for Making Black Box Models Explainable Book)
+* [Online Free version](https://christophm.github.io/interpretable-ml-book/)
+* [Ebook](https://leanpub.com/interpretable-machine-learning)
+* [Print version](https://www.lulu.com/shop/christoph-molnar/interpretable-machine-learning/paperback/product-24036234.html)
