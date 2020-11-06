@@ -44,10 +44,12 @@
 
 
 # Interpretable Machine Learning
+
 <figure>
-  <img src='https://christophm.github.io/interpretable-ml-book/images/title_page.jpg' align="center">
+  <img src='https://christophm.github.io/interpretable-ml-book/images/title_page.jpg' align="center" width=400px>
   <figcaption>Source: https://christophm.github.io/interpretable-ml-book/images/title_page.jpg</figcaption>
 </figure>
+
 ## Interpretable Machine Learning (A Guide for Making Black Box Models Explainable Book)
 * [Online Free version](https://christophm.github.io/interpretable-ml-book/)
 * [Ebook](https://leanpub.com/interpretable-machine-learning)
