@@ -31,6 +31,11 @@
 </figure>
 
 ## DCGAN: Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks
+<figure>
+  <img src='images/dcgan-gen-arch.png' align="center" width=400px>
+  <figcaption>Source: https://github.com/junyanz/CycleGAN/</figcaption>
+</figure>
+
 * [Paper](https://arxiv.org/abs/1511.06434)
 * [Code](https://github.com/aniketmaurya/GANs-PyTorch-models/blob/main/DCGAN/dcgan.ipynb)
 * [Blog](https://hardikbansal.github.io/CycleGANBlog/) - Understanding and Implementing CycleGAN in TensorFlow
