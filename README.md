@@ -32,8 +32,8 @@
 
 ## DCGAN: Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks
 <figure>
-  <img src='images/dcgan-gen-arch.png' align="center" width=400px>
-  <figcaption>Source: https://github.com/junyanz/CycleGAN/</figcaption>
+  <img src='images/dcgan-vector-arithmetic.png' align="center" width=400px>
+  <figcaption>Source: from paper</figcaption>
 </figure>
 
 * [Paper](https://arxiv.org/abs/1511.06434)
