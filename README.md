@@ -55,6 +55,9 @@
   <figcaption>Source: https://christophm.github.io/interpretable-ml-book/images/title_page.jpg</figcaption>
 </figure>
 
+## GradCAM
+* [Article](https://fairyonice.github.io/Grad-CAM-with-keras-vis.html)
+
 ## Interpretable Machine Learning (A Guide for Making Black Box Models Explainable Book)
 * [Online Free version](https://christophm.github.io/interpretable-ml-book/)
 * [Ebook](https://leanpub.com/interpretable-machine-learning)
