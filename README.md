@@ -62,3 +62,7 @@
 * [Online Free version](https://christophm.github.io/interpretable-ml-book/)
 * [Ebook](https://leanpub.com/interpretable-machine-learning)
 * [Print version](https://www.lulu.com/shop/christoph-molnar/interpretable-machine-learning/paperback/product-24036234.html)
+
+
+# ML System Design
+* [CS 329S: Machine Learning Systems Design](https://stanford-cs329s.github.io/syllabus.html)
