@@ -66,3 +66,9 @@
 
 # ML System Design
 * [CS 329S: Machine Learning Systems Design](https://stanford-cs329s.github.io/syllabus.html)
+
+
+# MLOps
+* [Machine Learning Engineering for Production (MLOps) Specialization](https://www.coursera.org/specializations/machine-learning-engineering-for-production-mlops)
+* [Introducing MLOps](https://www.oreilly.com/library/view/introducing-mlops/9781492083283/)
+* [Awesome MLOps](https://github.com/visenger/awesome-mlops)
