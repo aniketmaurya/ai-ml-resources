@@ -2,8 +2,13 @@
 
 ## LLMs & RAGs
 
+### RAGs
+* [NVIDIA Generative AI Examples](https://github.com/NVIDIA/GenerativeAIExamples/tree/main/RetrievalAugmentedGeneration?nvid=nv-int-tblg-996848)
+
+
 ### LLM Agents
 * [Introduction to LLM Agents](https://developer.nvidia.com/blog/introduction-to-llm-agents/)
+* [Building Your First LLM Agent Application](https://developer.nvidia.com/blog/building-your-first-llm-agent-application/)
 
 ## ML System Design
 * [CS 329S: Machine Learning Systems Design](https://stanford-cs329s.github.io/syllabus.html)
