@@ -5,6 +5,15 @@
 ### LLM Agents
 * [Introduction to LLM Agents](https://developer.nvidia.com/blog/introduction-to-llm-agents/)
 
+## ML System Design
+* [CS 329S: Machine Learning Systems Design](https://stanford-cs329s.github.io/syllabus.html)
+
+
+## MLOps
+* [Machine Learning Engineering for Production (MLOps) Specialization](https://www.coursera.org/specializations/machine-learning-engineering-for-production-mlops)
+* [Introducing MLOps](https://www.oreilly.com/library/view/introducing-mlops/9781492083283/)
+* [Awesome MLOps](https://github.com/visenger/awesome-mlops)
+
 ## Object detection
 ### Single Stage Detectors
 #### SSD: Single Shot MultiBox Detector
@@ -52,14 +61,6 @@
 * [Blog](https://hardikbansal.github.io/CycleGANBlog/) - Understanding and Implementing CycleGAN in TensorFlow
 
 
-
-## Interpretable Machine Learning
-
-<figure>
-  <img src='https://christophm.github.io/interpretable-ml-book/images/title_page.jpg' align="center" width=400px>
-  <figcaption>Source: https://christophm.github.io/interpretable-ml-book/images/title_page.jpg</figcaption>
-</figure>
-
 ### GradCAM
 * [Article](https://fairyonice.github.io/Grad-CAM-with-keras-vis.html)
 
@@ -68,12 +69,3 @@
 * [Ebook](https://leanpub.com/interpretable-machine-learning)
 * [Print version](https://www.lulu.com/shop/christoph-molnar/interpretable-machine-learning/paperback/product-24036234.html)
 
-
-## ML System Design
-* [CS 329S: Machine Learning Systems Design](https://stanford-cs329s.github.io/syllabus.html)
-
-
-## MLOps
-* [Machine Learning Engineering for Production (MLOps) Specialization](https://www.coursera.org/specializations/machine-learning-engineering-for-production-mlops)
-* [Introducing MLOps](https://www.oreilly.com/library/view/introducing-mlops/9781492083283/)
-* [Awesome MLOps](https://github.com/visenger/awesome-mlops)
